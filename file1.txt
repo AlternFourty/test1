@@ -2,4 +2,6 @@ Hello there
 
 This is a test file for the git course in platzi
 
+Testing changes, git test 
+
 end
