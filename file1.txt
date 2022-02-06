@@ -6,4 +6,6 @@ Testing changes, git test
 
 Cap 2 Do you even have a title?
 
+Do you even git rm --cached? 
+
 end
